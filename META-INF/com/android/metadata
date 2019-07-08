@@ -1,0 +1,17 @@
+ota-downgrade=yes
+ota-id=OnePlus6TOxygen_34.O.10_GLO_010_1810242132
+ota-property-files=payload_metadata.bin:9936:118851,payload.bin:9936:1755885219,payload_properties.txt:1755895213:168,care_map.txt:952:201,compatibility.zip:1206:8683,metadata:69:835                  
+ota-required-cache=0
+ota-streaming-property-files=payload.bin:9936:1755885219,payload_properties.txt:1755895213:168,care_map.txt:952:201,compatibility.zip:1206:8683,metadata:69:835                    
+ota-type=AB
+ota-wipe=yes
+ota_version=OnePlus6TOxygen_34.O.10_GLO_010_1810242132
+patch_type=1
+post-build=OnePlus/OnePlus6T/OnePlus6T:9/PKQ1.180716.001/1810242027:user/release-keys
+post-build-incremental=1810242027
+post-sdk-level=28
+post-security-patch-level=2018-11-01
+post-timestamp=8888888888
+pre-device=OnePlus6T
+version_name=OnePlus6TOxygen_34_1810242132
+wipe=1
