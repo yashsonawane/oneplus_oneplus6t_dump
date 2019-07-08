@@ -1,0 +1,16 @@
+ota-id=OnePlus6TOxygen_34.D.01_GLO_001_1905032146
+ota-property-files=payload_metadata.bin:9091:118729,payload.bin:9091:1563885867,payload_properties.txt:1563895016:168,care_map.pb:929:762,compatibility.zip:1744:7300,metadata:69:813                  
+ota-required-cache=0
+ota-streaming-property-files=payload.bin:9091:1563885867,payload_properties.txt:1563895016:168,care_map.pb:929:762,compatibility.zip:1744:7300,metadata:69:813                    
+ota-type=AB
+ota-wipe=yes
+ota_version=OnePlus6TOxygen_34.D.01_GLO_001_1905032146
+patch_type=1
+post-build=OnePlus/fajita/OnePlus6T:10/QKQ1.190406.002/1905032135:user/release-keys
+post-build-incremental=1905032135
+post-sdk-level=28
+post-security-patch-level=2019-05-05
+post-timestamp=1556891096
+pre-device=OnePlus6T
+version_name=OnePlus6TOxygen_34_1905032146
+wipe=1
