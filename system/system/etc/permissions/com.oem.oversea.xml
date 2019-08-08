@@ -1,0 +1,4 @@
+<permissions>
+    <!--add feature wellbeing-->
+    <feature name="com.google.android.feature.WELLBEING" />
+</permissions>
