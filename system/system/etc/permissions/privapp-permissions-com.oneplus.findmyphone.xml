@@ -1,0 +1,5 @@
+<permissions>
+   <privapp-permissions package="com.oneplus.findmyphone">
+        <permission name="android.permission.GET_ACCOUNTS_PRIVILEGED"/>
+   </privapp-permissions>
+</permissions>
